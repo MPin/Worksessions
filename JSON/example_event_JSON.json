@@ -18,11 +18,11 @@
   "example_event_module":
   {
     "type":"event",
-    "duration":129600000,
     
     "data":{
       "title":"CalHacks",
       "description": "UC Berkeley's largest collegiate hackathon. Open to all teams. Visit http://www.calhacks.io/ to register.",
+      "duration":129600000,
       "start_time": 
       {
         "hour":0,
