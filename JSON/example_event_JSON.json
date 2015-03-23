@@ -1,0 +1,38 @@
+{
+  "place": "California Memorial Stadium",
+  "latitude": 37.871189,
+  "longitude": -122.250168,
+  "tag":["tech", "computer", "startup", "hackathon"],
+  
+  "time_posted":
+  {
+    "hour":0,
+    "min":0,
+    "second":0,
+    "day":8,
+    "month":8,
+    "year":2014,
+    "unix":1407398400
+  },
+  
+  "example_event_module":
+  {
+    "type":"event",
+    "duration":129600000,
+    
+    "data":{
+      "title":"CalHacks",
+      "description": "UC Berkeley's largest collegiate hackathon. Open to all teams. Visit http://www.calhacks.io/ to register.",
+      "start_time": 
+      {
+        "hour":0,
+        "min":0,
+        "second":0,
+        "day":3,
+        "month":10,
+        "year":2014,
+        "unix":1412319600
+      }
+    }
+  }
+}
