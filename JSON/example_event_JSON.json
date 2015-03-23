@@ -22,7 +22,7 @@
     "data":{
       "title":"CalHacks",
       "description": "UC Berkeley's largest collegiate hackathon. Open to all teams. Visit http://www.calhacks.io/ to register.",
-      "duration":129600000,
+      "duration":129600,
       "start_time": 
       {
         "hour":0,
