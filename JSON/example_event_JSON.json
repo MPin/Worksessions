@@ -4,7 +4,25 @@
   "longitude": -122.250168,
   "tag":["tech", "computer", "startup", "hackathon"],
   "score": 100,
-  "user":"AndrewLiu",
+  "user":"u_102031",
+  "comments":[
+    {
+      "user":"u_102011",
+      "body":"So excited!",
+      "score": 34,
+      "latitude": 37.871189,
+      "longitude": -122.250168,
+      "time_posted":{
+        "hour":0,
+        "min":0,
+        "second":0,
+        "day":8,
+        "month":8,
+        "year":2014,
+        "unix":1407398400
+        }
+    }
+  ],
   
   "time_posted":
   {
@@ -17,7 +35,7 @@
     "unix":1407398400
   },
   
-  "example_event_module":
+  "module":
   {
     "type":"event",
     
